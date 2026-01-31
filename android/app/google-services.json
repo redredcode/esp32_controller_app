@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "16516191566",
+    "firebase_url": "https://esp32led-b4bfb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "esp32led-b4bfb",
+    "storage_bucket": "esp32led-b4bfb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16516191566:android:598fea08dffdde3f7e7a1f",
+        "android_client_info": {
+          "package_name": "com.example.esp32_controller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWOfCBwd-QcP26hgOD7b5EhNaQkvxYRp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
