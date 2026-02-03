@@ -21,6 +21,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   firebase_database: ^12.1.2
   firebase_core: ^4.4.0
+  flutter_blue_plus: ^2.1.0
 
 
 #------------------ PACKAGES END ----------------#
